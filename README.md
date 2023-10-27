@@ -1,3 +1,2 @@
 # HTMLCSS1
-
-![gambar] ss1.png
+![image.png]( {ss1.png} )
